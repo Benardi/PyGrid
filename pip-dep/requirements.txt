@@ -8,7 +8,8 @@ Flask-Sockets==0.2.1
 flask_migrate
 flask_sqlalchemy
 flask_testing
-gevent==1.4.0
+psycopg2-binary
+pyjwt
 git+https://github.com/OpenMined/PySyft@master#egg=syft
 gunicorn==19.9.0
 itsdangerous==1.1.0
